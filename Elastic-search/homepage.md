@@ -4,4 +4,4 @@ zip)
 
 ## Commands
 - To start elastic search
-- - .\bin\elasticsearch.bat
+- - .\bin\elasticsearch.bats
