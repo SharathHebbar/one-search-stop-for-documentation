@@ -8,8 +8,9 @@ zip
 ``` .\bin\elasticsearch.bat ```
 
 - Make changes in the config folder of elastic search of files
-[elasticsearch.yml](Elastic-search\config\elasticsearch.yml)
-[roles.yml](Elastic-search\config\roles.yml)
+
+1. [elasticsearch.yml](Elastic-search\config\elasticsearch.yml)
+2. [roles.yml](Elastic-search\config\roles.yml)
 
 - Command to add users
 ```C:\sharath\elastic-search\elasticsearch-8.9.1-windows-x86_64\elasticsearch-8.9.1>.\bin\elasticsearch-users useradd sharath -p 123456 -r network,monitoring```
