@@ -1,4 +1,4 @@
-# Download and install the .zip packageedit
+# Download and install the .zip package edit
 Download the .zip archive for Elasticsearch 8.9.1: https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.9.1-windows-x86_64.
 zip
 
